@@ -21,4 +21,5 @@ The HR Analytics Tableau Dashboard provides key insights into workforce trends a
 
 ## About
 This dashboard was created to support HR decision-making by visualizing trends in employee retention and satisfaction. It enables data-driven interventions for improved workforce management.
-
+## DASHBOARD Screenshot
+![HR ANALYTICS DASBOARD](https://github.com/Deepikasept1995/HR-DATA-ANALYTIC-TABLEAU-PROJECT/blob/main/Screenshot%202025-01-09%20153700.png?raw=true)
